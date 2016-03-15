@@ -1,0 +1,17 @@
+/Users/mpalla/Unity/Spring2016_IntermediateGameDev_Midterm/Temp/bin/Debug/UnityEngine.dll
+/Users/mpalla/Unity/Spring2016_IntermediateGameDev_Midterm/Temp/bin/Debug/UnityEditor.dll
+/Users/mpalla/Unity/Spring2016_IntermediateGameDev_Midterm/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/mpalla/Unity/Spring2016_IntermediateGameDev_Midterm/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/mpalla/Unity/Spring2016_IntermediateGameDev_Midterm/Temp/bin/Debug/Mono.Cecil.dll
+/Users/mpalla/Unity/Spring2016_IntermediateGameDev_Midterm/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/mpalla/Unity/Spring2016_IntermediateGameDev_Midterm/Temp/bin/Debug/Unity.DataContract.dll
+/Users/mpalla/Unity/Spring2016_IntermediateGameDev_Midterm/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/mpalla/Unity/Spring2016_IntermediateGameDev_Midterm/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/mpalla/Unity/Spring2016_IntermediateGameDev_Midterm/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/mpalla/Unity/Spring2016_IntermediateGameDev_Midterm/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/mpalla/Unity/Spring2016_IntermediateGameDev_Midterm/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/mpalla/Unity/Spring2016_IntermediateGameDev_Midterm/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/mpalla/Unity/Spring2016_IntermediateGameDev_Midterm/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/mpalla/Unity/Spring2016_IntermediateGameDev_Midterm/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/mpalla/Unity/Spring2016_IntermediateGameDev_Midterm/obj/Debug/Assembly-CSharp.dll
+/Users/mpalla/Unity/Spring2016_IntermediateGameDev_Midterm/obj/Debug/Assembly-CSharp.dll.mdb
